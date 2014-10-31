@@ -1,0 +1,26 @@
+{
+  "name": "admin-flatify",
+  "version": "1.0.0",
+  "homepage": "https://github.com/rafaeldl/admin-flatify",
+  "authors": [
+    "Misael <misabitencourt@gmail.com>"
+  ],
+  "description": "Admin template",
+  "main": [
+    "dist/bower_components/font-awesome/css/font-awesome.min.css",
+    "dist/bower_components/font-awesome/css/weather-icons.min.css",
+    "styles/ui.css",
+    "styles/main.css",
+    "scripts/vendor.js",
+    "scripts/ui.js"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
